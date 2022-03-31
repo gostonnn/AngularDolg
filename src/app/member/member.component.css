@@ -1,0 +1,17 @@
+
+/*
+* File: member.components.css
+* Author: Vásárhelyi Ágoston
+* Copyright: 2022, Vásárhelyi Ágoston
+* Group: Szoft II/N
+* Date: 2022-03-31
+* Github: https://github.com/gostonnn
+* Licenc: GNU GPL
+*/
+
+input.ng-invalid {
+    border-left: 5px solid red;
+}
+input.ng-valid {
+    border-left: 5px solid green;
+}
