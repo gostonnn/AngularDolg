@@ -27,7 +27,7 @@ export class MemberComponent implements OnInit {
 
   loginForm !: FormGroup;
   constructor() { }
-
+  
   ngOnInit(): void {
 
     this.memberForm = new FormGroup({
